@@ -8,3 +8,5 @@ The program needs to output the numbers 1 to 10, each on a separate line, follow
 ...**
 
 > You can use the **\n** newline character to create line breaks, or, alternatively, create the desired output using three double quotes **"""**
+
+[ANSWER](/Answers/00008-%20Leaderboard.py)
