@@ -12,4 +12,4 @@ Fix the given code to generate the expected output.
 
 > Remember, you need to escape the quotes in the strings to fix the errors in the code
 
-[ANSWER]()
+[ANSWER](/Answers/00005-%20Strings.py)
