@@ -26,3 +26,4 @@ I will update this repository, If I got new Python projects!
 [00022- Data Picker](/Questions/00022-%20Data%20Picker.md) </br>
 [00023- The Last Character](/Questions/00023-%20The%20Last%20Character.md) </br>
 [00024- Sum of Consecutive Numbers](/Questions/00024-%20Sum%20of%20Consecutive%20Numbers.md) </br>
+[00025- Queue Management](/Questions/00025-%20Queue%20Management.md) </br>
