@@ -4,4 +4,4 @@ Write a program that takes a string as input and outputs the last character of t
 
 > Remember, you can use negative indices to index lists
 
-[ANSWER]()
+[ANSWER](/Answers/00023-%20The%20Last%20Character.py)
