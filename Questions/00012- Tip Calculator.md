@@ -4,10 +4,10 @@ When you go out to eat, you always tip 20% of the bill amount. But who’s got t
 
 Your program needs to take the bill amount as input and output the tip as a **float**.
 
-**Sample Input**
+**Sample Input** </br>
 50
 
-**Sample Output**
+**Sample Output** </br>
 10.0
 
 > **Explanation**: 20% of 50 is 10. </br>
