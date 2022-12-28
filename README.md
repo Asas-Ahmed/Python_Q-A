@@ -20,3 +20,4 @@ I will update this repository, If I got new Python projects!
 [00016- Call It Even](/Questions/00016-%20Call%20It%20Even.md) </br>
 [00017- Ticket Prices](/Questions/00017-%20Ticket%20Prices.md) </br>
 [00018- BMI Calculator](/Questions/00018-%20BMI%20Calculator.md) </br>
+[00019- Strings](/Questions/00019-%20Strings.md) </br>
