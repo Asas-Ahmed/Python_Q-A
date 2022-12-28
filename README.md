@@ -24,3 +24,4 @@ I will update this repository, If I got new Python projects!
 [00020- Bingo](/Questions/00020-%20Bingo.md) </br>
 [00021- List Of Numbers](/Questions/00021-%20List%20Of%20Numbers.md) </br>
 [00022- Data Picker](/Questions/00022-%20Data%20Picker.md) </br>
+[00023- The Last Character](/Questions/00023-%20The%20Last%20Character.md)
