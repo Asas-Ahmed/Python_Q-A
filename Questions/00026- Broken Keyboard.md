@@ -6,4 +6,4 @@ Replace all of the ^ characters in the given input with spaces and output the re
 
 > You can use the **replace()** function of a string to replace one substring with another
 
-[ANSWER]()
+[ANSWER](/Answers/00026-%20Broken%20Keyboard.py)
