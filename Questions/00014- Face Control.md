@@ -10,4 +10,4 @@ Your program takes the age of the person who tries to enter, and outputs **"Allo
 **Sample Output** </br>
 Allowed
 
-[ANSWER]()
+[ANSWER](/Answers/00014-%20Face%20Control.py)
