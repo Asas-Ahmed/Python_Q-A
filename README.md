@@ -28,3 +28,4 @@ I will update this repository, If I got new Python projects!
 [00024- Sum of Consecutive Numbers](/Questions/00024-%20Sum%20of%20Consecutive%20Numbers.md) </br>
 [00025- Queue Management](/Questions/00025-%20Queue%20Management.md) </br>
 [00026- Broken Keyboard](/Questions/00026-%20Broken%20Keyboard.md) </br>
+[00027- Welcome, programmer!](/Questions/00027-%20Welcome%2C%20programmer!.md) </br>
