@@ -9,4 +9,4 @@ x = [42, 8, 7, 1, 0, 124, 8897, 555, 3, 67, 99]
 
 > Output the sum after the loop.
 
-[ANSWER]()
+[ANSWER](/Answers/00021-%20List%20Of%20Numbers.py)
