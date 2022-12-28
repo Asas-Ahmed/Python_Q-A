@@ -18,4 +18,4 @@ Your program needs to take the ages of 5 passengers as input and output the tota
 
 > There is one child under 3 among the passengers, so the total price of 5 tickets is **$400**
 
-[ANSWER]()
+[ANSWER](/Answers/00017-%20Ticket%20Prices.py)
