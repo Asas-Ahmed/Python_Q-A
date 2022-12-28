@@ -17,4 +17,4 @@ Take a number N as input and output the sum of all numbers from 1 to N (includin
 > You can iterate over a range and calculate the sum of all numbers in the range. </br>
 Remember, **range(a, b)** does not include b, thus you need to use **b+1** to include b in the range
 
-[ANSWER]()
+[ANSWER](/Answers/00024-%20Sum%20of%20Consecutive%20Numbers.py)
