@@ -13,4 +13,4 @@ The output sequence should start with the first input number and end with the se
 
 > Convert a range object to a list and output it
 
-[ANSWER]()
+[ANSWER](/Answers/00022-%20Data%20Picker.py)
