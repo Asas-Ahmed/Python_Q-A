@@ -13,4 +13,4 @@ Your program needs to take the bill amount as input and output the tip as a **fl
 > **Explanation**: 20% of 50 is 10. </br>
 To calculate 20% of a given amount, you can multiply the number by 20 and divide it by 100: **50*20/100 = 10.0**
 
-[ANSWER]()
+[ANSWER](/Answers/00012-%20Tip%20Calculator.py)
