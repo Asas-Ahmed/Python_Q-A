@@ -10,4 +10,4 @@ queue = ['John', 'Rob', 'David', 'Wilson']
 
 > The **append()** method can be used to add new items to the list
 
-[ANSWER]()
+[ANSWER](/Answers/00025-%20Queue%20Management.py)
