@@ -32,3 +32,4 @@ I will update this repository, If I got new Python projects!
 [00028- Call The Function](/Questions/00028-%20Call%20The%20Function.md) </br>
 [00029- Area Of A Rectangle](/Questions/00029-%20Area%20Of%20A%20Rectangle.md) </br>
 [00030- Search Engine](/Questions/00030-%20Search%20Engine.md) </br>
+[00031- Electricity Bill](/Questions/00031-%20Electricity%20Bill.md) </br>
