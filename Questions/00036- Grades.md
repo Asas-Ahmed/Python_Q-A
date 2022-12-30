@@ -13,4 +13,4 @@ If Marks between 49 – 40 </br>
 If Marks less than 40 </br>
 &emsp;&emsp;Grade = **F**
 
-[ANSWER]()
+[ANSWER](/Answers/00036-%20Grades.py)
