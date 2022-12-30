@@ -35,3 +35,4 @@ I will update this repository, If I got new Python projects!
 [00031- Electricity Bill](/Questions/00031-%20Electricity%20Bill.md) </br>
 [00032- Factorial Of the Numbers](/Questions/00032-%20Factorial%20Of%20the%20Numbers.md) </br>
 [00033- Creating Figures](/Questions/00033-%20Creating%20Figures.md) </br>
+[00034- Check the Numbers](/Questions/00034-%20Check%20the%20Numbers.md) </br>
