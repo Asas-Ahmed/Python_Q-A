@@ -36,4 +36,5 @@ I will update this repository, If I got new Python projects!
 [00032- Factorial Of the Numbers](/Questions/00032-%20Factorial%20Of%20the%20Numbers.md) </br>
 [00033- Creating Figures](/Questions/00033-%20Creating%20Figures.md) </br>
 [00034- Check the Numbers](/Questions/00034-%20Check%20the%20Numbers.md) </br>
-[00035- Net Salary](/Questions/00035-%20Net%20Salary.md)
+[00035- Net Salary](/Questions/00035-%20Net%20Salary.md) </br>
+[00036- Grades](/Questions/00036-%20Grades.md) </br>
