@@ -11,4 +11,4 @@ If Basic Salary is greater than 2500; </br>
 
 **Net Salary = Basic Salary + Bonus Amount**
 
-[ANSWER]()
+[ANSWER](/Answers/00035-%20Net%20Salary.py)
