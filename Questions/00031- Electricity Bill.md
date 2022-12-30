@@ -8,4 +8,4 @@ rates
 If the Number units used are less than 90 = USD 75 </br>
 If the Number units used are more than 90 = USD 100**
 
-[ANSWER]()
+[ANSWER](/Answers/00031-%20Electricity%20Bill.py)
