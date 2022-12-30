@@ -1,4 +1,4 @@
-# Check The Numbers
+# Net Salary
 
 Create a python program for a program to accept Basic Salary of an employee as user input. The program should calculate and display the Net Salary. Use following criteria for the calculation.
 
