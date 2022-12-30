@@ -33,3 +33,4 @@ I will update this repository, If I got new Python projects!
 [00029- Area Of A Rectangle](/Questions/00029-%20Area%20Of%20A%20Rectangle.md) </br>
 [00030- Search Engine](/Questions/00030-%20Search%20Engine.md) </br>
 [00031- Electricity Bill](/Questions/00031-%20Electricity%20Bill.md) </br>
+[00032- Factorial Of the Numbers](/Questions/00032-%20Factorial%20Of%20the%20Numbers.md)
